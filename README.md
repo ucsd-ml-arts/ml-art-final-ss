@@ -12,7 +12,7 @@ Note that while a lot of these networks were covered in class, what I really sou
 
 ## Project Report
 
-<b>TBA</b>
+The report can be found [here](./ECE188Report.pdf).
 
 ## Model/Data
 
@@ -65,6 +65,6 @@ The following were used as resources for the completion of this project:
 - [SentimentRNN](https://github.com/omarsar/nlp_pytorch_tensorflow_notebooks)
 - [PSAW - Pushshift API](https://pushshift.io/)
 - [Neural Style Transfer Implementation](https://github.com/roberttwomey/ml-art-bootcamp)
-- [char-RNN implementation](https://github.com/roberttwomey/ml-art-bootcamp)
+- [char-RNN Implementation](https://github.com/roberttwomey/ml-art-bootcamp)
 
 A big thanks to Robert Twomey for nicely compiling many networks for ease of testing and use!
